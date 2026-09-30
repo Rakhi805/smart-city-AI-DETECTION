@@ -1,0 +1,6 @@
+date,location,traffic_level,waste_level,air_quality,pothole_count,water_usage,rainfall
+2026-09-01,Hanamkonda,85,60,130,3,70,10
+2026-09-02,Kazipet,65,82,105,2,65,5
+2026-09-03,Warangal,78,72,140,5,80,0
+2026-09-04,Hanamkonda,92,88,150,6,90,2
+2026-09-05,Kazipet,55,65,90,1,60,20
